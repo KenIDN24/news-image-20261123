@@ -1,7 +1,8 @@
 # news-image-20261123
 
-[![make.fun bounty](https://img.shields.io/badge/make.fun-bounty-2b6cb0)](https://make.fun/bounty/news-image-20261123?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
-[![rank on make.fun](https://img.shields.io/badge/rank-make.fun%20leaderboard-38a169)](https://make.fun/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
+[![make.fun bounty](https://make.fun/badge/news-image-20261123.svg)](https://make.fun/bounty/news-image-20261123?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
+[![rank on make.fun](https://make.fun/badge/news-image-20261123/KenIDN24/news-image-20261123/rank.svg)](https://make.fun/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
+[![reward](https://make.fun/badge/news-image-20261123/KenIDN24/news-image-20261123/reward.svg)](https://make.fun/bounty/news-image-20261123?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
 [![github](https://img.shields.io/badge/github-KenIDN24%2Fnews--image--20261123-24292e)](https://github.com/KenIDN24/news-image-20261123?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
 
 A one-page newspaper front page summing up the world's news of
